@@ -1,10 +1,7 @@
-streamlit==1.37.1
-torch==2.5.1
-torchvision==0.20.1
-Pillow==11.0.0
+streamlit==1.36.0
+torch==2.4.1
+torchvision==0.19.1
+Pillow==10.3.0
 requests==2.32.3
-sentence-transformers==3.3.0
+sentence-transformers==3.2.0
 numpy==1.26.4
-protobuf==5.29.2
-transformers==4.46.3
-scikit-learn==1.5.2
