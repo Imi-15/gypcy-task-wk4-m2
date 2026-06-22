@@ -1,7 +1,8 @@
-streamlit==1.28.1
-torch==2.12.1
-torchvision==0.27.1
-Pillow==10.1.0
-requests==2.31.0
-sentence-transformers==5.6.0
-numpy==1.24.3
+streamlit==1.36.0
+torch==2.4.0
+torchvision==0.19.0
+Pillow==10.4.0
+requests==2.32.3
+sentence-transformers==3.2.1
+numpy==1.26.4
+protobuf==5.29.0
